@@ -6,6 +6,4 @@
   
 | Day Number  | Description | Link To Questions     |
 | :---        |    :----:   |          ---: |
-|      |        |   |
-
-  
+|   Day 1   |        | <ul><li>https://www.hackerrank.com/challenges/inherited-code/problem</li><li>https://leetcode.com/problems/pascals-triangle/ </li><li>https://www.hackerrank.com/challenges/vector-sort/problem</li></ul> |  
