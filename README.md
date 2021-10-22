@@ -7,3 +7,4 @@
 | Day Number  | Description | Link To Questions     |
 | :---        |    :----:   |          ---: |
 |   Day 1   |        | <ul><li>https://www.hackerrank.com/challenges/inherited-code/problem</li><li>https://leetcode.com/problems/pascals-triangle/ </li><li>https://www.hackerrank.com/challenges/vector-sort/problem</li><li>https://practice.geeksforgeeks.org/problems/maximum-money2855/1</li></ul> |  
+|   Day 2   |        | <ul><li>https://practice.geeksforgeeks.org/problems/number-of-paths0926/1</li><li> https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop5721/1</li><li>https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1 </li> <li> https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1</li></ul> |  
