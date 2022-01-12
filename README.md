@@ -25,83 +25,15 @@
 |   Day 17   | <ul><li>https://www.hackerrank.com/challenges/rectangle-area/problem?isFullScreen=true</li> <li>https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#</li> <li>https://practice.geeksforgeeks.org/problems/stacks-operations/1</li> <li>https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1</li> </ul> |
 |   Day 18   | <ul><li>https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1</li> <li>https://practice.geeksforgeeks.org/problems/stack-designer/1</li> <li>https://leetcode.com/problems/climbing-stairs/</li> <li>https://leetcode.com/problems/binary-tree-inorder-traversal/</li> </ul> |
 |   Day 19   | <ul><li>https://leetcode.com/problems/symmetric-tree/</li> <li>https://leetcode.com/problems/maximum-depth-of-binary-tree/</li> <li>https://leetcode.com/problems/min-stack/</li> <li>https://www.codechef.com/submit/HS08TEST</li></ul> |
-|   Day 20   | <ul><li>https://www.codechef.com/submit/FLOW001</li> <li>https://www.codechef.com/submit/INTEST</li> <li>https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1</li> <li>https://practice.geeksforgeeks.org/problems/mirror-tree/1</li></ul> |
-|   Day 21   | <ul><li>https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/</li> 
-<li>https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1</li>
-<li>https://leetcode.com/problems/merge-two-binary-trees/</li>
-<li>https://leetcode.com/problems/invert-binary-tree/</li>
-<li>Node at K distance</li>
-</ul> |
-
-|   Day 22   | <ul>
-<li>https://www.hackerrank.com/challenges/tree-level-order-traversal/problem</li> 
-<li>https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1</li>
-<li>Complete Implementation of Queue Using Arrays</li>
-<li>Circular Approach of Queue using arrays</li>
-<li>Queue Using STL</li>
-
-</ul> |
-
-|   Day 23   | <ul>
-<li>Implementation of Queue using Linked List</li> 
-<li>https://leetcode.com/problems/daily-temperatures/submissions/</li>
-<li>https://www.hackerrank.com/challenges/tree-preorder-traversal/problem</li>
-<li>https://www.hackerrank.com/challenges/tree-postorder-traversal/problem</li>
-<li>https://www.hackerrank.com/challenges/tree-inorder-traversal/problem</li>
-</ul> |
-
-|   Day 24   | <ul>
-<li>https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem</li> 
-<li>Size Of Tree</li>
-<li>Max in Binary Tree</li>
-<li>https://www.hackerrank.com/challenges/diagonal-difference/problem</li>
-<li>https://www.hackerrank.com/challenges/birthday-cake-candles/problem</li>
-</ul> |
-
-|   Day 25   | <ul>
-<li>https://www.hackerrank.com/challenges/apple-and-orange/problem</li> 
-<li>https://www.hackerrank.com/challenges/kangaroo/problem</li>
-<li>https://www.hackerrank.com/challenges/between-two-sets/problem</li>
-<li>https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem</li>
-<li>https://www.hackerrank.com/challenges/the-birthday-bar/problem</li>
-</ul> |
-
-|   Day 26   | <ul>
-<li>https://www.codechef.com/CCSTART2/submit/REVSTRPT</li> 
-<li>https://www.codechef.com/CCSTART2/problems/SUMEVOD</li>
-<li>https://www.codechef.com/CCSTART2/submit/SQALPAT</li>
-<li>https://www.hackerrank.com/challenges/time-conversion/problem</li>
-<li>https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/0/</li> 
-</ul> |
-
-|   Day 27   | <ul>
-<li>https://www.hackerrank.com/challenges/bon-appetit/problem</li> 
-<li>https://www.hackerrank.com/challenges/drawing-book/problem</li>
-<li>https://practice.geeksforgeeks.org/problems/square-root/1/</li>
-<li>https://www.codechef.com/JAN221C/submit/COVSPRD</li>
-<li>https://www.hackerrank.com/challenges/electronics-shop/problem</li> 
-</ul> |
-
-|   Day 28   | <ul>
-<li>https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1/</li> 
-<li>https://practice.geeksforgeeks.org/problems/who-has-the-majority/0/</li>
-<li>https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/0/</li>
-<li>https://practice.geeksforgeeks.org/problems/first-repeating-element4018/0/</li>
-<li>https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/0/</li> 
-</ul> |
-
-|   Day 29   | <ul>
-<li>https://practice.geeksforgeeks.org/problems/find-immediate-smaller-than-x/0/</li> 
-<li>https://codeforces.com/contest/1624/problem/A</li>
-<li>https://codeforces.com/contest/1624/problem/B</li>
-<li>https://www.codechef.com/LRNDSA01/problemss/FLOW007</li>
-<li>https://codeforces.com/contest/1624/problem/C</li> 
-</ul> |
-
-|   Day 30   | <ul>
-<li>https://www.hackerrank.com/challenges/crush/problem</li> 
-<li>https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/0/</li>
-<li>https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem</li>
-<li>https://www.codechef.com/LRNDSA01/problems/ZCO14003</li>
-</ul> |
+|   Day 20   | <ul><li>https://www.codechef.com/submit/FLOW001</li> <li>https://www.codechef.com/submit/INTEST</li> <li>https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1</li> <li>https://practice.geeksforgeeks.org/problems/mirror-tree/1</li>
+|   Day 21   | <ul><li>https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/</li> <li>https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1</li><li>https://leetcode.com/problems/merge-two-binary-trees/</li> <li>https://leetcode.com/problems/invert-binary-tree/</li><li>Node at K distance</li> </ul> |
+|   Day 22   | <ul> <li>https://www.hackerrank.com/challenges/tree-level-order-traversal/problem</li> <li>https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1</li> <li>Complete Implementation of Queue Using Arrays</li> <li>Circular Approach of Queue using arrays</li> <li>Queue Using STL</li> </ul> |
+|   Day 23   | <ul> <li>Implementation of Queue using Linked List</li>  <li>https://leetcode.com/problems/daily-temperatures/submissions/</li> <li>https://www.hackerrank.com/challenges/tree-preorder-traversal/problem</li> <li>https://www.hackerrank.com/challenges/tree-postorder-traversal/problem</li><li>https://www.hackerrank.com/challenges/tree-inorder-traversal/problem</li> </ul> |
+|   Day 24   | <ul> <li>https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem</li> <li>Size Of Tree</li> <li>Max in Binary Tree</li> <li>https://www.hackerrank.com/challenges/diagonal-difference/problem</li> <li>https://www.hackerrank.com/challenges/birthday-cake-candles/problem</li></ul> |
+|   Day 25   | <ul> <li>https://www.hackerrank.com/challenges/apple-and-orange/problem</li>  <li>https://www.hackerrank.com/challenges/kangaroo/problem</li> <li>https://www.hackerrank.com/challenges/between-two-sets/problem</li> <li>https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem</li> <li>https://www.hackerrank.com/challenges/the-birthday-bar/problem</li> </ul> |
+|   Day 26   | <ul> <li>https://www.codechef.com/CCSTART2/submit/REVSTRPT</li>  <li>https://www.codechef.com/CCSTART2/problems/SUMEVOD</li> <li>https://www.codechef.com/CCSTART2/submit/SQALPAT</li> <li>https://www.hackerrank.com/challenges/time-conversion/problem</li> <li>https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/0/</li>  </ul> |
+|   Day 27   | <ul> <li>https://www.hackerrank.com/challenges/bon-appetit/problem</li>  <li>https://www.hackerrank.com/challenges/drawing-book/problem</li> <li>https://practice.geeksforgeeks.org/problems/square-root/1/</li> <li>https://www.codechef.com/JAN221C/submit/COVSPRD</li> <li>https://www.hackerrank.com/challenges/electronics-shop/problem</li>  </ul> |
+|   Day 28   | <ul> <li>https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1/</li>  <li>https://practice.geeksforgeeks.org/problems/who-has-the-majority/0/</li> <li>https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/0/</li> <li>https://practice.geeksforgeeks.org/problems/first-repeating-element4018/0/</li> <li>https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/0/</li>  </ul> |
+|   Day 29   | <ul> <li>https://practice.geeksforgeeks.org/problems/find-immediate-smaller-than-x/0/</li>  <li>https://codeforces.com/contest/1624/problem/A</li> <li>https://codeforces.com/contest/1624/problem/B</li> <li>https://www.codechef.com/LRNDSA01/problemss/FLOW007</li> <li>https://codeforces.com/contest/1624/problem/C</li>  </ul> |
+|   Day 30   | <ul> <li>https://www.hackerrank.com/challenges/crush/problem</li> <li>https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/0/</li> <li>https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem</li> <li>https://www.codechef.com/LRNDSA01/problems/ZCO14003</li> </ul> |
 
